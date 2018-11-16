@@ -1,7 +1,10 @@
-
+class Dog
   def initialize(name)
    @name = name
-end
+  end
 
-def name@ nameend
+  def name
+    @ name
+  end
+end
   
